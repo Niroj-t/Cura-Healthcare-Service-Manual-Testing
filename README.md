@@ -46,8 +46,6 @@ The testing process includes functional validation, UI verification, API testing
 | UI Testing | Ensures interface elements display and behave correctly |
 | Browser Compatibility Testing | Confirms the application works across different browsers |
 | API Testing | Validates backend API responses and integrations |
-| Automation Testing | Uses automated scripts to execute repeated tests |
-| Regression Testing | Ensures new updates do not break existing functionality |
 
 ---
 

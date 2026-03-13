@@ -8,7 +8,7 @@ The testing process includes functional validation, UI verification, API testing
 
 ---
 
-# 👨‍💻 QA Engineer
+# 👨‍💻 QA Tester
 **Name:** Niroj Thapa  
 
 ---

@@ -1,16 +1,19 @@
-# Feedback Web App – QA Manual Testing
+# Cure-Healthcare-Service-Manual-Testing
 
-This repository contains the QA testing documentation for the Feedback Web Application.
+Domain: https://katalon-demo-cura.herokuapp.com/
 
-Project Link: https://truefeedback.in
+## Project Overview
+The Cura Healthcare Service is a web-based application that allows users to log in and book healthcare appointments. Manual testing was performed to ensure that the core functionalities work as expected, forms validate inputs correctly, and the user interface behaves consistently across the application.
 
-## QA Tester
-Name: Niroj Thapa
+UI / UX Testing: Validate page layout, fonts, colors, button/link clickability, responsiveness, and accessibility
 
-## Documentation
+Summary of Manual Testing
+Total Test Cases Executed: 10
 
-| Document | Link |
-|--------|------|
-| Test Plan | Test_plan/ TestPlan.md |
-| Test Cases | TestCases/TestCases.md|
-| Bugs List | BugsList/BugsList.md |
+Passed: 10
+
+Failed: 0
+
+Coverage: Login, Appointment, Confirmation, UI/UX, Form Validation, Accessibility
+
+Manual testing validated that the Cura Healthcare Service application functions correctly, the UI is consistent, and forms handle input as expected.
